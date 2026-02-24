@@ -1,2 +1,2 @@
 # jubilant-octo-tribble
-use for study
+use for studyhell
